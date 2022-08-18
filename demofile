@@ -1,2 +1,3 @@
-hi im uday kumar 
-bye
+echo "hello world"
+Name=uday
+echo "my name is $(name)
